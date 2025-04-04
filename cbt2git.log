@@ -1,0 +1,6 @@
+2025-04-04 09:51:13.346298 - Received CBT.V508.FILE444.PDS from FILE444.XMI 
+2025-04-04 09:51:13.346997 - Found $$$DOC.bin (application/octet-stream) in CBT.V508.FILE444.PDS, moved to PDS/$$$DOC
+2025-04-04 09:51:13.347152 - Found $$$DOC1.txt (text/plain) in CBT.V508.FILE444.PDS, moved to PDS/$$$DOC1
+2025-04-04 09:51:13.347286 - Found @FILE444.txt (text/plain) in CBT.V508.FILE444.PDS, moved to PDS/@FILE444
+2025-04-04 09:51:13.347410 - Found CPRDTAPE.txt (text/plain) in CBT.V508.FILE444.PDS, moved to PDS/CPRDTAPE
+2025-04-04 09:51:13.347538 - Found CPWTA.txt (text/plain) in CBT.V508.FILE444.PDS, moved to PDS/CPWTA
